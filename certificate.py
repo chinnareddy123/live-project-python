@@ -26,9 +26,7 @@ for i in range(len(names_list)):
         flag=False
     path = ''
     cv2.imwrite('./output/'+name_to_print+'.png',cv2_im_processed)
- 
     cv2.waitKey(0)  
-
     cv2.destroyAllWindows()
     
 
