@@ -1,4 +1,3 @@
-
 from PIL import ImageFont, ImageDraw, Image  
 import cv2  
 import numpy as np  
